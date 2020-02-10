@@ -55,3 +55,16 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+
+.modal-header {
+  color: white;
+  background-color:#512DA8;
+}
+.modal-body {
+  background-color:#d1c4e9;
+}
+
+.card-body {
+  background-color:#d1c4e9;
+}
